@@ -1,0 +1,8 @@
+../Core/Src/modbus/modbus.c:10:11:modbus_crc16	4
+../Core/Src/modbus/modbus.c:46:13:generateModbusException	1
+../Core/Src/modbus/modbus.c:64:13:handleReadDiscreteInputs	5
+../Core/Src/modbus/modbus.c:103:13:handleReadHoldingRegisters	3
+../Core/Src/modbus/modbus.c:136:13:handleWriteMultipleRegisters	4
+../Core/Src/modbus/modbus.c:175:10:getModSlaveFrameLen	6
+../Core/Src/modbus/modbus.c:200:13:parseModbusFrame	9
+../Core/Src/modbus/modbus.c:260:6:handleModbusRequest	5

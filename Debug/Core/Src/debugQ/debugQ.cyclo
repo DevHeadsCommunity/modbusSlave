@@ -1,0 +1,4 @@
+../Core/Src/debugQ/debugQ.c:22:6:DebugQ_init	1
+../Core/Src/debugQ/debugQ.c:40:9:AddToDebugQ	1
+../Core/Src/debugQ/debugQ.c:62:9:AddStringToDebugQ	1
+../Core/Src/debugQ/debugQ.c:82:9:printDebugQ	1

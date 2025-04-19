@@ -1,0 +1,4 @@
+../Core/Src/debugQ/debugQ.c:22:6:DebugQ_init	4	static
+../Core/Src/debugQ/debugQ.c:40:9:AddToDebugQ	16	static
+../Core/Src/debugQ/debugQ.c:62:9:AddStringToDebugQ	16	static
+../Core/Src/debugQ/debugQ.c:82:9:printDebugQ	4	static

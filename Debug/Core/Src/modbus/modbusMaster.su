@@ -1,0 +1,5 @@
+../Core/Src/modbus/modbusMaster.c:6:10:getModMasterFrameLen	24	static
+../Core/Src/modbus/modbusMaster.c:32:9:modbusProcessResponse	32	static
+../Core/Src/modbus/modbusMaster.c:93:17:form_modbus_request_frame	24	static
+../Core/Src/modbus/modbusMaster.c:145:6:writeRegisters	80	static
+../Core/Src/modbus/modbusMaster.c:152:6:requestDiscreteInputs	48	static
