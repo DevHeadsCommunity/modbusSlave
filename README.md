@@ -1,6 +1,6 @@
 # MODBUS RTU SLAVE Firmware Implementation on STM32 MCU
 
-> 🎥 **A video demo is available — see [Live Demo]([#-live-demo](https://www.youtube.com/live/FV6_q8X_ouA?si=fERtnyLyN1bbx7Me))** 
+> 📺 [live demo](https://www.youtube.com/live/FV6_q8X_ouA?si=fERtnyLyN1bbx7Me)  
 
 ---
 
@@ -85,7 +85,7 @@ SLAVE ADDRESS | FUNCTION CODE | DATA | CRC
 
 ## live DEMO 
 
-> 🎥 **A video demo is available — see [Live Demo]([#-live-demo](https://www.youtube.com/live/FV6_q8X_ouA?si=fERtnyLyN1bbx7Me))**
+> 📺 [live demo](https://www.youtube.com/live/FV6_q8X_ouA?si=fERtnyLyN1bbx7Me)  
 
 ---
 
